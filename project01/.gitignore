@@ -1,0 +1,7 @@
+# --- Virtual Environments (If you use them) ---
+venv/
+.venv/
+env/
+ENV/
+
+data/
